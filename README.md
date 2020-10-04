@@ -5,6 +5,7 @@ Um ajuda para você se organizar e visualizar suas receitas e despesas ao final 
 Este scrpit gera duas tabelas: uma contendo todos os items de receita ou despesa, e outra indicando o saldo do final do mês.
 
 Utilize a planilha base para listagem dos seus itens.
+
 A coluna **Tipo** só pode conter estritamente os campos: 
 > Despesa 
 

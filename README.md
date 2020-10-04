@@ -2,11 +2,11 @@
 Um ajuda para você se organizar e visualizar suas receitas e despesas ao final do mês. 
 
 ## Como usar
-Este scrpit gera duas tabelas: 
+Este scrpit gera duas planilha: 
 
-1. Umaa contendo todos os items de receita ou despesa, 
+1. Uma planilha contendo todos os items de receita ou despesa, 
 
-2. e outra indicando o saldo do final do mês.
+2. e outra planilha indicando o saldo do final do mês.
 
 Utilize a planilha base para listagem dos seus itens.
 

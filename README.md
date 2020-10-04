@@ -29,7 +29,7 @@ A coluna **Classificação** só pode conter estritamente os campos:
 Os conceitos de receitas e despesas descritos a seguir eu obtive num curso de educação financeira disponibilizado pela Serasa no período de quarentena. No entanto, atualmente existe um curso de Trilha Financeira mais abrangente e atualizado, o qual pode ser acessado [aqui](https://www.serasa.com.br/ensina/curso-ead-financas-trilha-financeira/).
 
 ## Receitas
-Receita é tudo aquilo que é ganho ou recebido durante um mês.
+Receita é tudo aquilo que é ganho ou recebido durante um mês, sãp classificadas em:
 ### Fixas
 Receita fixa é o valor que você recebe todo mês e de forma invariável.
 ### Variáveis
@@ -38,7 +38,7 @@ Receita variável é valor que você recebe todo mês no entanto ele tem um car�
 Receita extra é o valor que você recebe e tem um caráter temporário, não há como contar com ele no próximo mẽs. Geralmente são providos de atividades fora do escopo planejado de trabalho.
 
 ## Despesas
-Despesa é todo valor gasto durante um mês.
+Despesa é todo valor gasto durante um mês, são classificadas em:
 ### Fixa
 Despesa fixa é o valor que você gasta todo mês com bens e serviços essenciais para a manutenção do seu estilo de vida. Podem ser: alimentos, remédios, educação e transporte.
 ### Variáveis

@@ -30,7 +30,7 @@ A coluna **Classificação** só pode conter estritamente os campos:
 > Dívida 
 
 # Conceitos de finanças
-Os conceitos de receitas e despesas descritos a seguir eu obtive num curso de educação financeira disponibilizado pela Serasa no período de quarentena. No entanto, atualmente existe um curso de Trilha Financeira mais abrangente e atualizado, o qual pode ser acessado [aqui](https://www.serasa.com.br/ensina/curso-ead-financas-trilha-financeira/).
+Os conceitos de receitas e despesas descritos a seguir eu obtive num curso de educação financeira disponibilizado pela Serasa no período de quarentena. No entanto, existe um curso de Trilha Financeira mais abrangente e atualizado, publicamente disponibilizado pela Serasa, o qual pode ser acessado [aqui](https://www.serasa.com.br/ensina/curso-ead-financas-trilha-financeira/).
 
 ## Receitas
 Receita é tudo aquilo que é ganho ou recebido durante um mês, sãp classificadas em:

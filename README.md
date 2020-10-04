@@ -5,15 +5,15 @@ Um ajuda para você se organizar e visualizar suas receitas e despesas ao final 
 Este scrpit gera duas tabelas: uma contendo todos os items de receita ou despesa, e outra indicando o saldo do final do mês.
 Utilize a planilha base para listagem dos seus itens.
 A coluna **Tipo** só pode conter estritamente os campos: 
-> Despesa
-> Receita
+> Despesa <
+> Receita <
 A coluna **Classificação** só pode conter estritamente os campos: 
-> Fixa,
-> Variável, 
-> Extra, 
-> Eventual Esperada, 
-> Emergência ou 
-> Dívida.
+> Fixa <
+> Variável < 
+> Extra <
+> Eventual Esperada < 
+> Emergência <
+> Dívida <
 
 # Conceitos
 Os conceitos de receitas e despesas descritos a seguir eu obtive num curso de educação financeira disponibilizado pela Serasa no período de quarentena. No entanto, atualmente existe um curso de Trilha Financeira mais abrangente e atualizado, o qual pode ser acessado [aqui](https://www.serasa.com.br/ensina/curso-ead-financas-trilha-financeira/).
@@ -27,7 +27,7 @@ Receita variável é valor que você recebe todo mês no entanto ele tem um car�
 ### Extras
 Receita extra é o valor que você recebe e tem um caráter temporário, não há como contar com ele no próximo mẽs. Geralmente são providos de atividades fora do escopo planejado de trabalho.
 
-# Despesas
+## Despesas
 Despesa é todo valor gasto durante um mês.
 ### Fixa
 Despesa fixa é o valor que você gasta todo mês com bens e serviços essenciais para a manutenção do seu estilo de vida. Podem ser: alimentos, remédios, educação e transporte.

@@ -2,7 +2,7 @@
 Um ajuda para você se organizar e visualizar suas receitas e despesas ao final do mês. 
 
 ## Como usar
-Este scrpit gera duas planilha: 
+O scrpit financial_income gera duas planilha: 
 
 1. Uma planilha contendo todos os items de receita ou despesa, 
 

@@ -3,17 +3,26 @@ Um ajuda para você se organizar e visualizar suas receitas e despesas ao final 
 
 ## Como usar
 Este scrpit gera duas tabelas: uma contendo todos os items de receita ou despesa, e outra indicando o saldo do final do mês.
+
 Utilize a planilha base para listagem dos seus itens.
 A coluna **Tipo** só pode conter estritamente os campos: 
-> Despesa <
-> Receita <
+> Despesa 
+
+> Receita 
+
 A coluna **Classificação** só pode conter estritamente os campos: 
-> Fixa <
-> Variável < 
-> Extra <
-> Eventual Esperada < 
-> Emergência <
-> Dívida <
+
+> Fixa 
+
+> Variável  
+
+> Extra 
+
+> Eventual Esperada  
+
+> Emergência 
+
+> Dívida 
 
 # Conceitos
 Os conceitos de receitas e despesas descritos a seguir eu obtive num curso de educação financeira disponibilizado pela Serasa no período de quarentena. No entanto, atualmente existe um curso de Trilha Financeira mais abrangente e atualizado, o qual pode ser acessado [aqui](https://www.serasa.com.br/ensina/curso-ead-financas-trilha-financeira/).

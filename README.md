@@ -8,7 +8,7 @@ O scrpit financial_income gera duas planilhas:
 
 2. e outra planilha indicando o saldo do final do mês.
 
-Utilize a planilha base para listagem dos seus itens.
+Utilize a planilha base fornecida (items_de_receitas&despesas .xlsx) para listagem dos seus itens.
 
 A coluna **Tipo** só pode conter estritamente os campos: 
 > Despesa 
